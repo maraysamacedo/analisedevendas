@@ -21,5 +21,8 @@ A consulta SQL principal cria uma view chamada **RESULTADOS_ADW** que combina in
 
 ## Alteração de Dados no Banco
 Tambem possui a atualização de dados na tabela de vendas, alterando a quantidade de todos os pedidos para 1.
+<br><br>
 
-![Demonstração do Projeto](assets/gif.Projeto_Integração_POWERBI_SQL.gif)
+## Demonstração do Projeto
+![Demonstração do Projeto](2º%20PROJETO%20COM%20POWER%20BI/gif/Projeto_Integração_POWERBI_SQL.gif)
+
