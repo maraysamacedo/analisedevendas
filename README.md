@@ -10,12 +10,12 @@ Este projeto visa analisar dados de vendas utilizando SQL para manipulação de 
 
 As tabelas principais envolvidas são:
 
-**FactInternetSales:** Contém as transações de vendas.<br> 
-**DimProductSubcategory:** Subcategorias de produtos.<br> 
-**DimProduct:** Detalhes dos produtos.<br> 
-**DimProductCategory:** Categorias de produtos.<br> 
-**DimCustomer:** Dados dos clientes.<br> 
-**DimGeography:** Informações geográficas dos clientes.<br> <br> <br> 
+- **FactInternetSales:** Contém as transações de vendas.<br> 
+- **DimProductSubcategory:** Subcategorias de produtos.<br> 
+- **DimProduct:** Detalhes dos produtos.<br> 
+- **DimProductCategory:** Categorias de produtos.<br> 
+- **DimCustomer:** Dados dos clientes.<br> 
+- **DimGeography:** Informações geográficas dos clientes.<br> <br> <br> 
 **[Código SQL](https://github.com/maraysamacedo/analisedevendas/blob/main/2%C2%BA%20PROJETO%20COM%20POWER%20BI/Query%20com%20integra%C3%A7%C3%A3o%20e%20commit%20com%20Power%20BI.sql)**
 <br><br>
 ## Consulta SQL e View
